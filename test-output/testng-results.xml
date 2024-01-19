@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-19T20:30:51 IST" name="Suite" finished-at="2024-01-19T20:30:57 IST" duration-ms="6572">
+    <groups>
+    </groups>
+    <test started-at="2024-01-19T20:30:51 IST" name="Test" finished-at="2024-01-19T20:30:57 IST" duration-ms="6572">
+      <class name="com.saucelab.TestCases.RegressionTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucelab.TestCases.RegressionTestCases@6e0f5f7f]" started-at="2024-01-19T20:30:51 IST" name="setUp" finished-at="2024-01-19T20:30:56 IST" duration-ms="4439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEndToEnd_LoginTo_ProceedToCheckOut()[pri:0, instance:com.saucelab.TestCases.RegressionTestCases@6e0f5f7f]" started-at="2024-01-19T20:30:56 IST" name="verifyEndToEnd_LoginTo_ProceedToCheckOut" finished-at="2024-01-19T20:30:57 IST" duration-ms="1639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEndToEnd_LoginTo_ProceedToCheckOut -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucelab.TestCases.RegressionTestCases@6e0f5f7f]" started-at="2024-01-19T20:30:57 IST" name="tearDown" finished-at="2024-01-19T20:30:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucelab.TestCases.RegressionTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
